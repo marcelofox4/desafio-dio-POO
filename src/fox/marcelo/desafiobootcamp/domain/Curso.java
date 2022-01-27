@@ -1,6 +1,6 @@
 package fox.marcelo.desafiobootcamp.domain;
 
-public class Curso extends Conteudo{
+public class Curso extends Conteudo {
 
     private int cargaHoraria;
 
